@@ -15,6 +15,9 @@ https://github.com/Ayushtig/OIBSIP/assets/86613525/41980af3-4402-4159-84a2-0c5b0
 A dynamic and visually engaging portfolio website created with HTML, CSS, and JavaScript. This website showcases my skills, projects, and personality through a sleek and responsive design. It features an interactive homepage with smooth scrolling and a fixed navigation bar for seamless user experience. The projects section displays my work with descriptions and links, while a contact form facilitates easy communication. The use of JavaScript enhances user interactivity with features like image sliders and animations. Overall, this website serves as a comprehensive digital resume, highlighting my talents and providing a memorable online presence.
 
 
+https://github.com/Ayushtig/OIBSIP/assets/86613525/50ca32cf-563d-4b5b-afe5-b339fc31b1ee
+
+
 # TASK - 3 TEMPERATURE CONVERTER WEBSITE
 
 The Temperature Converter website is a user-friendly, interactive tool built using HTML, CSS, and JavaScript. It allows users to effortlessly convert temperatures between different units such as Celsius, Fahrenheit, and Kelvin. The sleek and intuitive user interface, designed with CSS, offers a seamless experience. Users input the temperature value, select the source unit, and choose the target unit. JavaScript then performs real-time conversions, displaying the converted temperature instantly. With error handling for invalid inputs and clear, responsive design, this website simplifies temperature conversion tasks for users, making it a valuable tool for everyday use and educational purposes.
